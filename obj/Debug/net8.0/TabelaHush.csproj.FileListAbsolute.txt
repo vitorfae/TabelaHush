@@ -1,0 +1,14 @@
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\bin\Debug\net8.0\TabelaHush.exe
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\bin\Debug\net8.0\TabelaHush.deps.json
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\bin\Debug\net8.0\TabelaHush.runtimeconfig.json
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\bin\Debug\net8.0\TabelaHush.dll
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\bin\Debug\net8.0\TabelaHush.pdb
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\TabelaHush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\TabelaHush.AssemblyInfoInputs.cache
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\TabelaHush.AssemblyInfo.cs
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\TabelaHush.csproj.CoreCompileInputs.cache
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\TabelaHush.dll
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\refint\TabelaHush.dll
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\TabelaHush.pdb
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\TabelaHush.genruntimeconfig.cache
+C:\Users\vitor.ulrich\Pictures\UNOESC\TabelaHush\obj\Debug\net8.0\ref\TabelaHush.dll
